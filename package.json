@@ -1,0 +1,25 @@
+{
+  "name": "koishi-plugin-ran-dress",
+  "description": "随机计算机猫娘",
+  "version": "0.0.3",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.18.7"
+  },
+  "author": "",
+  "devDependencies": {
+    "koishi": "^4.18.11",
+    "typescript": "^5.9.3"
+  }
+}
